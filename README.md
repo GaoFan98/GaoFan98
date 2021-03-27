@@ -17,7 +17,9 @@ Feel free to contact me!
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168164.svg?token=exp=1616865143~hmac=4f73ce3ebe9fcee423f7c27f13e34bbb">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/164/164938.svg?token=exp=1616865139~hmac=dbbdd93a08aa1eaa191da373c83030c7">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168038.svg?token=exp=1616865147~hmac=68a5fd5501354bc2e438d5d189e530fd">
+</p>
   
+
 ## 🔎 Find me on:
 <p align="center">
  <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/38/38401.svg?token=exp=1616865556~hmac=f541f87e6dbb6604d0a366f40c81fa3a" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -28,17 +30,50 @@ Feel free to contact me!
 <br/>
 
 ## 🔧 Languages and Tools:
-<p align="center">
+
+## Backend:
+<p align="center"> 
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="PHP" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-256.png" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/285_R_Project-256.png" alt="R lang" height="50" style="vertical-align:top; margin:4px">
+</p>
+
+## Frontend:
+<p align="center">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="CSS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="Sass" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png" alt="VueJS" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="MySQL" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-256.png" alt="Docker" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/AWS-256.png" alt="AWS" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-256.png" alt="Git" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-256.png" alt="Jquery" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-256.png" alt="npm" height="50" style="vertical-align:top; margin:4px">
+<img src="https://lh3.googleusercontent.com/proxy/tGYXySjKeVtdyj35DzeGjrdc-V7_vtSpkQrHutp72mLeC_qdFxDEI4jV5uGJ80wecR2mApkY0e4YrXc" alt="ajax" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/gulp-256.png" alt="Gulp" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" height="50" style="vertical-align:top; margin:4px">
+  
 </p>
+
+## Database:
+<p align="center">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="MySQL" height="50" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-256.png" alt="Redis" height="50" style="vertical-align:top; margin:4px">
+</p>
+
+## DevOps:
+<p align="center">
+<img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678068-terminal-256.png" alt="bash" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-256.png" alt="Ubuntu" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-256.png" alt="Git" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/bitbucket-256.png" alt="Bit" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/composer-285363.png" alt="Composer" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/vagrant-256.png" alt="Vagrant" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-256.png" alt="docker" height="50" style="vertical-align:top; margin:4px">
+</p>
+
+
+  
 
 ## 💯 Stats:
 <div class = "row">
