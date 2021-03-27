@@ -100,7 +100,7 @@ Feel free to contact me!
       </div>
   <div class ="col-6">
                
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFan98&hide=html&langs_count=6&layout=compact&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFan98&hide=html,blade&langs_count=8&layout=compact&theme=dracula" />
 
   </div>
 </div>
