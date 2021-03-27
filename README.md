@@ -19,7 +19,6 @@ Feel free to contact me!
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168038.svg?token=exp=1616865147~hmac=68a5fd5501354bc2e438d5d189e530fd">
 </p>
   
-
 ## 🔎 Find me on:
 <p align="center">
  <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/38/38401.svg?token=exp=1616865556~hmac=f541f87e6dbb6604d0a366f40c81fa3a" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -30,7 +29,6 @@ Feel free to contact me!
 <br/>
 
 ## 🔧 Languages and Tools:
-
 ## Backend:
 <p align="center"> 
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="PHP" height="50" style="vertical-align:top; margin:4px">
@@ -89,18 +87,8 @@ Feel free to contact me!
 <img src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" alt="postman" height="50" style="vertical-align:top; margin:4px">
 </p>
 
-
-
-  
-
 ## 💯 Stats:
-<div class = "row">
-    <div class="col-6">
-           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaoFan98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
-      </div>
-  <div class ="col-6">
-               
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFan98&hide=html,blade&langs_count=8&layout=compact&theme=dracula" />
-
-  </div>
-</div>
+<p align="center">
+<img height="200" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api?username=GaoFan98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />          
+<img height="200" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFan98&hide=html,blade&langs_count=8&layout=compact&theme=dracula" />
+</p>
