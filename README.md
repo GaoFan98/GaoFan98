@@ -9,7 +9,9 @@
   I found great fascination with the way different IT sectors work, and parallel to that, I have also been expanding my knowledge in programming. I believe myself to be a creative, dedicated, and hardworking individual. I try to strive to the apex in all my duties till fully completing them, and am always hungry for more knowledge. This is why I always challenge myself every day. But I won’t be stopping there, as I have more goals and aspirations I plan on fulfilling.
 Feel free to contact me! 
 
-## ✉️ Find me on:
+
+
+## 🔎 Find me on:
 <p align="center">
  <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/vagif-aghayev-270298/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -18,7 +20,7 @@ Feel free to contact me!
 
 <br/>
 
-## 🧰 Languages and Tools:
+## 🔧 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
@@ -42,7 +44,3 @@ Feel free to contact me!
 
   </div>
 </div>
-
-
-
-
