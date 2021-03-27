@@ -70,6 +70,11 @@ Feel free to contact me!
 <img src="https://cdn.iconscout.com/icon/free/png-256/composer-285363.png" alt="Composer" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/vagrant-256.png" alt="Vagrant" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-256.png" alt="docker" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3-256.png" alt="s3" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Compute__Networking_copy_Amazon_EC2---256.png"  alt="ec2" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_Amazon_RDS-256.png" alt="rds" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Deployment__Management_copy_Elastic_Beanstalk-256.png" alt="eb" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Compute__Networking_copy_Amazon_Route_53-256.png" alt="route53" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 
