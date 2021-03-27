@@ -51,6 +51,7 @@ Feel free to contact me!
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white" alt="material" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## Database:
@@ -65,6 +66,7 @@ Feel free to contact me!
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bit" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white" alt="vagrant" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="50" style="vertical-align:top; margin:4px">
 </p>
 
