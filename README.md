@@ -9,28 +9,49 @@
   I found great fascination with the way different IT sectors work, and parallel to that, I have also been expanding my knowledge in programming. I believe myself to be a creative, dedicated, and hardworking individual. I try to strive to the apex in all my duties till fully completing them, and am always hungry for more knowledge. This is why I always challenge myself every day. But I won’t be stopping there, as I have more goals and aspirations I plan on fulfilling.
 Feel free to contact me! 
 
-
+## 🔎 I speak:
+<div class="row">
+   <div class="column">
+    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/164/164905.svg?token=exp=1616865284~hmac=977c1bc4b3c3215785dbafa931903bf2">
+  </div>
+   <div class="column">
+    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168112.svg?token=exp=1616865137~hmac=64532ba28762468fdf75cfc6915ea098">
+  </div>
+  
+  <div class="column">
+    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168172.svg?token=exp=1616865134~hmac=53e650b4208dbee11cbf2deeba7ffc38">
+  </div>
+  <div class="column">
+    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168164.svg?token=exp=1616865143~hmac=4f73ce3ebe9fcee423f7c27f13e34bbb">
+  </div>
+  <div class="column">
+    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/164/164938.svg?token=exp=1616865139~hmac=dbbdd93a08aa1eaa191da373c83030c7">
+  </div>
+  <div class="column">
+    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168038.svg?token=exp=1616865147~hmac=68a5fd5501354bc2e438d5d189e530fd">
+  </div>
+</div>
 
 ## 🔎 Find me on:
 <p align="center">
- <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/vagif-aghayev-270298/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:vagifaghayev270298@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/38/38401.svg?token=exp=1616865556~hmac=f541f87e6dbb6604d0a366f40c81fa3a" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/vagif-aghayev-270298/" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1616865458~hmac=53eca74e0ebf11e258fa438268e03530" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:vagifaghayev270298@gmail.com"> <img src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1616865612~hmac=9dd28ea25046e69856dffb6be7efafd4" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br/>
 
 ## 🔧 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJS" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="PHP" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-256.png" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png" alt="VueJS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="MySQL" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-256.png" alt="Docker" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/AWS-256.png" alt="AWS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-256.png" alt="Git" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## 💯 Stats:
