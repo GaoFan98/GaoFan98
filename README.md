@@ -1,8 +1,5 @@
 ### Hi there，你好 and こんにちは 👋
 
-<!--
-**GaoFan98/GaoFan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Fully motivated, I am seeking new challenges and knowledge in new technologies, mostly in Back-end and AI/ML/DL/Robotics fields.
 Since 2017 I have been actively working at different places as well as taking internships.
 Some of the places I have worked for are related to the management field, others are to the IT world. As someone who enjoys programming, I also decided to try myself at teaching on courses, which was an invaluable experience that helped me understand the aspects of leading and motivating people even better. I have also taken part in several startups and projects, in some of them I was successful, some failed but I got an indispensable experience. The opportunity to work in these places showed me the necessity of management as well as computer science, which in turn helped me effectively integrate my different skills altogether.
