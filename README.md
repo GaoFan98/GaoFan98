@@ -52,7 +52,7 @@ Feel free to contact me!
 <img src="https://mpng.subpng.com/20180828/yge/kisspng-1st-century-logo-brand-electric-motor-duoweb-5b85a160141ef6.2288466515354842560824.jpg" alt="Jquery" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.pngio.com/javascript-logo-png-download-16001600-free-transparent-npm-npm-png-900_900.jpg" alt="npm" height="50" style="vertical-align:top; margin:4px">
 <img src="https://lh3.googleusercontent.com/proxy/tGYXySjKeVtdyj35DzeGjrdc-V7_vtSpkQrHutp72mLeC_qdFxDEI4jV5uGJ80wecR2mApkY0e4YrXc" alt="ajax" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/gulp-256.png" alt="Gulp" height="50" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="Gulp" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" height="50" style="vertical-align:top; margin:4px">
   
 </p>
