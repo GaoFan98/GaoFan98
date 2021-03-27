@@ -33,10 +33,10 @@ Feel free to contact me!
 
 ## 💯 Stats:
 <div class = "row">
-    <div class="col-md-6">
+    <div class="col-6">
            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaoFan98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
       </div>
-  <div class ="col-md-6">
+  <div class ="col-6">
                
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFan98&hide=html&langs_count=6&layout=compact&theme=dracula" />
 
