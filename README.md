@@ -21,10 +21,10 @@ Feel free to contact me!
   
 ## 🔎 Find me on:
 <p align="center">
- <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://eridan.io/wp-content/uploads/2020/02/social-icons-github.png" alt="git" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/vagif-aghayev-270298/" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1616865458~hmac=53eca74e0ebf11e258fa438268e03530" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:vagifaghayev270298@gmail.com"> <img src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1616865612~hmac=9dd28ea25046e69856dffb6be7efafd4" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://stackoverflow.com/users/8301456/gaofan" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1616870846~hmac=ea7c666dc008c8e7f5f20028e6823159" alt="Stackoverflow" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/vagif-aghayev-270298/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:vagifaghayev270298@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://stackoverflow.com/users/8301456/gaofan" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br/>
@@ -35,24 +35,21 @@ Feel free to contact me!
  
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cms-assets.tutsplus.com/uploads/users/433/posts/23928/preview_image/Untitled.png" alt="Lumen" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" style="vertical-align:top; margin:4px">  
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## Frontend:
 <p align="center">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="HTML" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="CSS" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="Sass" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png" alt="VueJS" height="50" style="vertical-align:top; margin:4px">
-<img src="https://mpng.subpng.com/20180828/yge/kisspng-1st-century-logo-brand-electric-motor-duoweb-5b85a160141ef6.2288466515354842560824.jpg" alt="Jquery" height="50" style="vertical-align:top; margin:4px">
-<img src="https://img.pngio.com/javascript-logo-png-download-16001600-free-transparent-npm-npm-png-900_900.jpg" alt="npm" height="50" style="vertical-align:top; margin:4px">
-<img src="https://lh3.googleusercontent.com/proxy/tGYXySjKeVtdyj35DzeGjrdc-V7_vtSpkQrHutp72mLeC_qdFxDEI4jV5uGJ80wecR2mApkY0e4YrXc" alt="ajax" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png" alt="Gulp" height="50" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" height="50" style="vertical-align:top; margin:4px">
-  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## Database:
