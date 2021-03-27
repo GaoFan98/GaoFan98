@@ -35,8 +35,12 @@ Feel free to contact me!
 <p align="center"> 
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="PHP" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-256.png" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cms-assets.tutsplus.com/uploads/users/433/posts/23928/preview_image/Untitled.png" alt="Lumen" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/285_R_Project-256.png" alt="R lang" height="50" style="vertical-align:top; margin:4px">
+  
+<img src="https://sileotech.com/wp-content/uploads/2018/03/DZYq1NzU0AEn12e.jpg" alt="Rest" height="50" style="vertical-align:top; margin:4px">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-512.png" alt="GraphQL" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## Frontend:
@@ -76,6 +80,15 @@ Feel free to contact me!
 <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Deployment__Management_copy_Elastic_Beanstalk-256.png" alt="eb" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Compute__Networking_copy_Amazon_Route_53-256.png" alt="route53" height="50" style="vertical-align:top; margin:4px">
 </p>
+
+## Testing:
+<p align="center">
+<img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/Selection_004_1.png?itok=8_C0Hy4R" alt="casper" height="50" style="vertical-align:top; margin:4px">
+<img src="https://iradul.gallerycdn.vsassets.io/extensions/iradul/debugger-for-phantomjs/0.1.1/1476808152131/Microsoft.VisualStudio.Services.Icons.Default" alt="phantom" height="50" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcSQCXNX5ajYJ4poNmfD2nYJ6iN_EdKQjNA&usqp=CAU" alt="Insomnia" height="50" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" alt="postman" height="50" style="vertical-align:top; margin:4px">
+</p>
+
 
 
   
