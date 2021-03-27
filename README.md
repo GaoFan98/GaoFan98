@@ -31,7 +31,7 @@ Feel free to contact me!
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="50" style="vertical-align:top; margin:4px">
 </p>
 
-## 🧰 Stats:
+## 💯 Stats:
 <div class = "row">
     <div class="col-md-6">
            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaoFan98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
