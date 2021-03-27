@@ -90,5 +90,5 @@ Feel free to contact me!
 ## 💯 Stats:
 <p align="center">
 <img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api?username=GaoFan98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />          
-<img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFan98&hide=html,blade,MATLAB,jupyter%20notebook&langs_count=8&layout=compact&theme=dracula" />
+<img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFan98&%20notebook&langs_count=10&layout=compact&theme=dracula" />
 </p>
