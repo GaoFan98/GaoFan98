@@ -32,14 +32,12 @@ Feel free to contact me!
 ## 🔧 Languages and Tools:
 ## Backend:
 <p align="center"> 
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-256.png" alt="PHP" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/laravel-256.png" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
+ 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cms-assets.tutsplus.com/uploads/users/433/posts/23928/preview_image/Untitled.png" alt="Lumen" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/285_R_Project-256.png" alt="R lang" height="50" style="vertical-align:top; margin:4px">
-  
-<img src="https://sileotech.com/wp-content/uploads/2018/03/DZYq1NzU0AEn12e.jpg" alt="Rest" height="50" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/1200/1*5_MqPhxTjvOHsqv1pV1UaA.png" alt="GraphQL" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" style="vertical-align:top; margin:4px">  
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## Frontend:
