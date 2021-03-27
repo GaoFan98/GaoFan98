@@ -1,4 +1,4 @@
-### Hi there，你好 and こんにちは 👋
+### Hi there，你好 and こんにちは <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   Fully motivated, I am seeking new challenges and knowledge in new technologies, mostly in <b>Back-end</b> and <b>AI/ML/DL/Robotics</b> fields.
 <br>
@@ -42,5 +42,7 @@ Feel free to contact me!
 
   </div>
 </div>
+
+
 
 
