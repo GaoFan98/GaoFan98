@@ -24,6 +24,7 @@ Feel free to contact me!
  <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/38/38401.svg?token=exp=1616865556~hmac=f541f87e6dbb6604d0a366f40c81fa3a" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/vagif-aghayev-270298/" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1616865458~hmac=53eca74e0ebf11e258fa438268e03530" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:vagifaghayev270298@gmail.com"> <img src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1616865612~hmac=9dd28ea25046e69856dffb6be7efafd4" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://stackoverflow.com/users/8301456/gaofan" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1616870846~hmac=ea7c666dc008c8e7f5f20028e6823159" alt="Stackoverflow" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br/>
