@@ -21,7 +21,7 @@ Feel free to contact me!
   
 ## 🔎 Find me on:
 <p align="center">
- <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/38/38401.svg?token=exp=1616865556~hmac=f541f87e6dbb6604d0a366f40c81fa3a" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://eridan.io/wp-content/uploads/2020/02/social-icons-github.png" alt="git" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/vagif-aghayev-270298/" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/124/124011.svg?token=exp=1616865458~hmac=53eca74e0ebf11e258fa438268e03530" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:vagifaghayev270298@gmail.com"> <img src="https://www.flaticon.com/svg/vstatic/svg/281/281769.svg?token=exp=1616865612~hmac=9dd28ea25046e69856dffb6be7efafd4" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://stackoverflow.com/users/8301456/gaofan" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1616870846~hmac=ea7c666dc008c8e7f5f20028e6823159" alt="Stackoverflow" height="40" style="vertical-align:top; margin:4px"></a>
@@ -39,7 +39,7 @@ Feel free to contact me!
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/285_R_Project-256.png" alt="R lang" height="50" style="vertical-align:top; margin:4px">
   
 <img src="https://sileotech.com/wp-content/uploads/2018/03/DZYq1NzU0AEn12e.jpg" alt="Rest" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/graphql-512.png" alt="GraphQL" height="50" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/1200/1*5_MqPhxTjvOHsqv1pV1UaA.png" alt="GraphQL" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## Frontend:
@@ -49,8 +49,8 @@ Feel free to contact me!
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="Sass" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="Javascript" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-256.png" alt="VueJS" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-256.png" alt="Jquery" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/npm-256.png" alt="npm" height="50" style="vertical-align:top; margin:4px">
+<img src="https://mpng.subpng.com/20180828/yge/kisspng-1st-century-logo-brand-electric-motor-duoweb-5b85a160141ef6.2288466515354842560824.jpg" alt="Jquery" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.pngio.com/javascript-logo-png-download-16001600-free-transparent-npm-npm-png-900_900.jpg" alt="npm" height="50" style="vertical-align:top; margin:4px">
 <img src="https://lh3.googleusercontent.com/proxy/tGYXySjKeVtdyj35DzeGjrdc-V7_vtSpkQrHutp72mLeC_qdFxDEI4jV5uGJ80wecR2mApkY0e4YrXc" alt="ajax" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/gulp-256.png" alt="Gulp" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="Webpack" height="50" style="vertical-align:top; margin:4px">
@@ -68,10 +68,10 @@ Feel free to contact me!
 <p align="center">
 <img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678068-terminal-256.png" alt="bash" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-256.png" alt="Ubuntu" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-256.png" alt="Git" height="50" style="vertical-align:top; margin:4px">
+<img src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1616883420~hmac=ccfb32ae626b73aeefb999b3edf68ec4" alt="Git" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/bitbucket-256.png" alt="Bit" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn.iconscout.com/icon/free/png-256/composer-285363.png" alt="Composer" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/vagrant-256.png" alt="Vagrant" height="50" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/999/1*DP5HWAPyj3SK-nep3iyqsw.png" alt="Vagrant" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-256.png" alt="docker" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3-256.png" alt="s3" height="50" style="vertical-align:top; margin:4px">
 <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Compute__Networking_copy_Amazon_EC2---256.png"  alt="ec2" height="50" style="vertical-align:top; margin:4px">
