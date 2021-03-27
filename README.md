@@ -36,6 +36,7 @@ Feel free to contact me!
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="50" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="50" style="vertical-align:top; margin:4px">  
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="50" style="vertical-align:top; margin:4px"> 
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="50" style="vertical-align:top; margin:4px">
 </p>
 
@@ -54,33 +55,22 @@ Feel free to contact me!
 
 ## Database:
 <p align="center">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png" alt="MySQL" height="50" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-256.png" alt="Redis" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## DevOps:
 <p align="center">
-<img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678068-terminal-256.png" alt="bash" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/348_Ubuntu_logo-256.png" alt="Ubuntu" height="50" style="vertical-align:top; margin:4px">
-<img src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1616883420~hmac=ccfb32ae626b73aeefb999b3edf68ec4" alt="Git" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/bitbucket-256.png" alt="Bit" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn.iconscout.com/icon/free/png-256/composer-285363.png" alt="Composer" height="50" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/999/1*DP5HWAPyj3SK-nep3iyqsw.png" alt="Vagrant" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-256.png" alt="docker" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Storage__Content_Delivery_Amazon_S3-256.png" alt="s3" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Compute__Networking_copy_Amazon_EC2---256.png"  alt="ec2" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_Amazon_RDS-256.png" alt="rds" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Deployment__Management_copy_Elastic_Beanstalk-256.png" alt="eb" height="50" style="vertical-align:top; margin:4px">
-<img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Compute__Networking_copy_Amazon_Route_53-256.png" alt="route53" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bit" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## Testing:
 <p align="center">
-<img src="https://www.drupal.org/files/styles/grid-3-2x/public/project-images/Selection_004_1.png?itok=8_C0Hy4R" alt="casper" height="50" style="vertical-align:top; margin:4px">
-<img src="https://iradul.gallerycdn.vsassets.io/extensions/iradul/debugger-for-phantomjs/0.1.1/1476808152131/Microsoft.VisualStudio.Services.Icons.Default" alt="phantom" height="50" style="vertical-align:top; margin:4px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcSQCXNX5ajYJ4poNmfD2nYJ6iN_EdKQjNA&usqp=CAU" alt="Insomnia" height="50" style="vertical-align:top; margin:4px">
-<img src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" alt="postman" height="50" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" height="50" style="vertical-align:top; margin:4px">
 </p>
 
 ## 💯 Stats:
