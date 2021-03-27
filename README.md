@@ -9,7 +9,7 @@
   I found great fascination with the way different IT sectors work, and parallel to that, I have also been expanding my knowledge in programming. I believe myself to be a creative, dedicated, and hardworking individual. I try to strive to the apex in all my duties till fully completing them, and am always hungry for more knowledge. This is why I always challenge myself every day. But I won’t be stopping there, as I have more goals and aspirations I plan on fulfilling.
 Feel free to contact me! 
 
-## 🔎 I speak:
+## 🗣 I speak:
 <p align="center">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/164/164905.svg?token=exp=1616865284~hmac=977c1bc4b3c3215785dbafa931903bf2">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168112.svg?token=exp=1616865137~hmac=64532ba28762468fdf75cfc6915ea098">
