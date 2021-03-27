@@ -10,28 +10,14 @@
 Feel free to contact me! 
 
 ## 🔎 I speak:
-<div class="row">
-   <div class="column">
+<p align="center">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/164/164905.svg?token=exp=1616865284~hmac=977c1bc4b3c3215785dbafa931903bf2">
-  </div>
-   <div class="column">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168112.svg?token=exp=1616865137~hmac=64532ba28762468fdf75cfc6915ea098">
-  </div>
-  
-  <div class="column">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168172.svg?token=exp=1616865134~hmac=53e650b4208dbee11cbf2deeba7ffc38">
-  </div>
-  <div class="column">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168164.svg?token=exp=1616865143~hmac=4f73ce3ebe9fcee423f7c27f13e34bbb">
-  </div>
-  <div class="column">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/164/164938.svg?token=exp=1616865139~hmac=dbbdd93a08aa1eaa191da373c83030c7">
-  </div>
-  <div class="column">
     <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168038.svg?token=exp=1616865147~hmac=68a5fd5501354bc2e438d5d189e530fd">
-  </div>
-</div>
-
+  
 ## 🔎 Find me on:
 <p align="center">
  <a href="https://github.com/GaoFan98" target="_blank" rel="noopener noreferrer"> <img src="https://www.flaticon.com/svg/vstatic/svg/38/38401.svg?token=exp=1616865556~hmac=f541f87e6dbb6604d0a366f40c81fa3a" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
