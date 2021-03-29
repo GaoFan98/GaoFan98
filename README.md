@@ -11,12 +11,12 @@ Feel free to contact me!
 
 ## 🗣 I speak:
 <p align="center">
-    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/164/164905.svg?token=exp=1616865284~hmac=977c1bc4b3c3215785dbafa931903bf2">
-    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168112.svg?token=exp=1616865137~hmac=64532ba28762468fdf75cfc6915ea098">
-    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168172.svg?token=exp=1616865134~hmac=53e650b4208dbee11cbf2deeba7ffc38">
-    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168164.svg?token=exp=1616865143~hmac=4f73ce3ebe9fcee423f7c27f13e34bbb">
-    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/164/164938.svg?token=exp=1616865139~hmac=dbbdd93a08aa1eaa191da373c83030c7">
-    <img height="50" src="https://www.flaticon.com/svg/vstatic/svg/168/168038.svg?token=exp=1616865147~hmac=68a5fd5501354bc2e438d5d189e530fd">
+    <img height="50" src="https://user-images.githubusercontent.com/26689874/112869126-dae3f500-90cd-11eb-9e17-573321041c17.png">
+    <img height="50" src="https://user-images.githubusercontent.com/26689874/112869283-049d1c00-90ce-11eb-85a0-b02a11f5bd0b.png">
+    <img height="50" src="https://user-images.githubusercontent.com/26689874/112869343-1a124600-90ce-11eb-80c1-fe238ad60916.png">
+    <img height="50" src="https://user-images.githubusercontent.com/26689874/112869390-28606200-90ce-11eb-87af-0b477313e2a7.png">
+    <img height="50" src="https://user-images.githubusercontent.com/26689874/112869441-37dfab00-90ce-11eb-8d91-a240ad3aebff.png">
+    <img height="50" src="https://user-images.githubusercontent.com/26689874/112869464-3f9f4f80-90ce-11eb-857b-cc5e4b04e1d6.png">
 </p>
   
 ## 🔎 Find me on:
