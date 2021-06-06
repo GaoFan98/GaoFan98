@@ -75,8 +75,3 @@ Feel free to contact me!
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## 💯 Stats:
-<p align="center">
-<img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api?username=GaoFan98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=default" />          
-<img height="160" style="vertical-align:top; margin:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoFan98&hide=blade,html,css,MATLAB,jupyter%20notebook&langs_count=20&layout=compact&theme=default" />
-</p>
