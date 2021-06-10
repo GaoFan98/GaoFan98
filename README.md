@@ -44,11 +44,15 @@ Feel free to contact me!
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white" alt="materialize" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="Jquery" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white" alt="material" height="40" style="vertical-align:top; margin:4px">
@@ -57,6 +61,8 @@ Feel free to contact me!
 ## Database:
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## DevOps:
@@ -72,6 +78,6 @@ Feel free to contact me!
 
 ## Testing:
 <p align="center">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia" height="40" style="vertical-align:top; margin:4px">
 </p>
 
