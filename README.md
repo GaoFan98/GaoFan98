@@ -26,14 +26,3 @@ Feel free to contact me!
  <a href="mailto:vagifaghayev270298@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://stackoverflow.com/users/8301456/gaofan" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-<br/>
-
-## 🔧 Languages and Tools:
-<p align="center"> 
- 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px">  
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="40" style="vertical-align:top; margin:4px"> 
-</p>
