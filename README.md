@@ -1,6 +1,6 @@
 ### Hi there，你好 and こんにちは <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  Fully motivated, I am seeking new challenges and knowledge in new technologies, mostly in <b>Back-end</b> and <b>AI/ML/DL/Robotics</b> fields.
+  Fully motivated, I am seeking new challenges and knowledge in new technologies, mostly in <b>WebDev</b>, <b>Blockchain</b> and <b>AI/ML</b> fields.
 <br>
   Since 2017 I have been actively working at different places as well as taking internships.
   <br>
