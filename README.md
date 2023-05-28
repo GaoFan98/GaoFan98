@@ -1,6 +1,12 @@
-### Hi there，你好 and こんにちは <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  Fully motivated, I am seeking new challenges and knowledge in new technologies, mostly in <b>WebDev</b>, <b>Blockchain</b> and <b>AI/ML</b> fields.
+  As a highly skilled software engineer with over 5 years of experience, I specialize in PHP, JS ecosystem, Python and more (please refer to Skills section). I have a passion for innovative solutions and excel at building projects in various industries, including but not limited to fintech, e-commerce, education, social network.
+
+I write clean, maintainable, and efficient code, employing best practices and design patterns. My expertise in Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and agile methodologies ensures timely delivery of top-quality work.
+
+With fluency in English, Russian, Chinese, Turkish, Azerbaijani and mastery of Japanese in progress, I can communicate effectively with clients from diverse backgrounds and better understand their needs. My strong collaboration and communication skills facilitate effective project management with team members and stakeholders.
+
+I'm always eager to learn new technologies and stay up-to-date with the latest industry trends and excited to work with individuals who share my passion for innovation and excellence.
 <br>
 
 ## 🗣 I speak:
