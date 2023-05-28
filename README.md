@@ -4,7 +4,7 @@
 
 I write clean, maintainable, and efficient code, employing best practices and design patterns. My expertise in Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and agile methodologies ensures timely delivery of top-quality work.
 
-With fluency in English, Russian, Chinese, Turkish, Azerbaijani and mastery of Japanese in progress, I can communicate effectively with clients from diverse backgrounds and better understand their needs. My strong collaboration and communication skills facilitate effective project management with team members and stakeholders.
+With fluency in English, Russian, Chinese, Turkish, Azerbaijani and mastery of Japanese in progress, I can communicate effectively with clients from diverse backgrounds and better understand their needs. 
 
 I'm always eager to learn new technologies and stay up-to-date with the latest industry trends and excited to work with individuals who share my passion for innovation and excellence.
 <br>
