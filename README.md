@@ -1,12 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  As a highly skilled software engineer with over 5 years of experience, I specialize in PHP, JS ecosystem, Python and more (please refer to Skills section). I have a passion for innovative solutions and excel at building projects in various industries, including but not limited to fintech, e-commerce, education, social network.
+  As a Senior Software Engineer with over 6 years of experience, I specialize in the JavaScript ecosystem, including, but not limited to Node.js, NestJS, Vue, React, Python, delivering impactful solutions across fintech, e-commerce, education, and more. My expertise in system architecture design, encompassing both web and mobile applications, ensures robust security and seamless integration.
 
-I write clean, maintainable, and efficient code, employing best practices and design patterns. My expertise in Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and agile methodologies ensures timely delivery of top-quality work.
+I have consistently driven performance improvements, enhancing application efficiency and ensuring timely project completion. My work includes strategic overhauls for better system responsiveness and integrating APIs to expand platform capabilities. I emphasize best practices, including Test-Driven Development (TDD) and Continuous Integration/Continuous Deployment (CI/CD).
 
-With fluency in English, Russian, Chinese, Turkish, Azerbaijani and mastery of Japanese in progress, I can communicate effectively with clients from diverse backgrounds and better understand their needs. 
+In addition to backend and frontend development, I have significant experience in DevOps and database management, including relational, NoSQL, and time series databases, ensuring high standards of code quality and performance. My expertise in testing frameworks further supports the reliability of my work. I have also led successful technical recruitment initiatives, building cohesive, high-performing teams.
 
-I'm always eager to learn new technologies and stay up-to-date with the latest industry trends and excited to work with individuals who share my passion for innovation and excellence.
+My academic background includes a Master's degree with research in the cryptocurrency field, and my forthcoming Ph.D. at Waseda University will focus on trading and AI models. Fluent in multiple languages, I effectively collaborate with clients from diverse backgrounds and stay current with industry trends. I am passionate about innovation and excellence.
 <br>
 
 ## 🗣 I speak:
