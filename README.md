@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  As a Senior Software Engineer with over 6 years of experience, I specialize in the JavaScript ecosystem, including, but not limited to Node.js, NestJS, Typescript, Vue, React, Python, delivering impactful solutions across fintech, e-commerce, education, and more. My expertise in system architecture design, encompassing both web and mobile applications, ensures robust security and seamless integration.
+  As a Senior Software Engineer with over 6 years of experience, I specialize in the JavaScript ecosystem, including, but not limited to Node.js, NestJS, Typescript, Vue, React, and Python, delivering impactful solutions across fintech, e-commerce, education, and more. My expertise in system architecture design, encompassing both web and mobile applications, ensures robust security and seamless integration.
 
 I have consistently driven performance improvements, enhancing application efficiency and ensuring timely project completion. My work includes strategic overhauls for better system responsiveness and integrating APIs to expand platform capabilities. I emphasize best practices, including Test-Driven Development (TDD) and Continuous Integration/Continuous Deployment (CI/CD).
 
