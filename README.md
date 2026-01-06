@@ -15,4 +15,4 @@ Throughout my career, I have built trust by consistently delivering results, lea
 <a href="https://stackoverflow.com/users/8301456/gaofan" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GaoFan98)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GaoFan98)](https://github.com/GaoFan98/github-readme-stats)
